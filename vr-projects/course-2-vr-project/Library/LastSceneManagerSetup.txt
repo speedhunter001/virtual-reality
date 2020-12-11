@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/houses-and-stones.unity
+  isLoaded: 1
+  isActive: 1
